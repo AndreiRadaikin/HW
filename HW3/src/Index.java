@@ -1,4 +1,4 @@
-import java.util.Iterator;
-
-public class Index implements Iterator {
-}
+//import java.util.Iterator;
+//
+//public class Index implements Iterator {
+//}
